@@ -1,0 +1,11 @@
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp.Completo.e.Profissional-Aplicativos\Aplicativos\primeiroProjeto\bin\Debug\primeiroProjeto.exe.config
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp.Completo.e.Profissional-Aplicativos\Aplicativos\primeiroProjeto\bin\Debug\primeiroProjeto.exe
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp.Completo.e.Profissional-Aplicativos\Aplicativos\primeiroProjeto\bin\Debug\primeiroProjeto.pdb
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp.Completo.e.Profissional-Aplicativos\Aplicativos\primeiroProjeto\obj\Debug\primeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp.Completo.e.Profissional-Aplicativos\Aplicativos\primeiroProjeto\obj\Debug\primeiroProjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp.Completo.e.Profissional-Aplicativos\Aplicativos\primeiroProjeto\obj\Debug\primeiroProjeto.Form1.resources
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp.Completo.e.Profissional-Aplicativos\Aplicativos\primeiroProjeto\obj\Debug\primeiroProjeto.Properties.Resources.resources
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp.Completo.e.Profissional-Aplicativos\Aplicativos\primeiroProjeto\obj\Debug\primeiroProjeto.csproj.GenerateResource.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp.Completo.e.Profissional-Aplicativos\Aplicativos\primeiroProjeto\obj\Debug\primeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp.Completo.e.Profissional-Aplicativos\Aplicativos\primeiroProjeto\obj\Debug\primeiroProjeto.exe
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp.Completo.e.Profissional-Aplicativos\Aplicativos\primeiroProjeto\obj\Debug\primeiroProjeto.pdb
